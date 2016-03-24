@@ -16,7 +16,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/RubyRefresher@Run_spec__refresher_spec___RubyRefresher.coverage" NAME="Run spec 'refresher_spec': RubyRefresher Coverage Results" MODIFIED="1458851196701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyRefresher" />
+    <SUITE FILE_PATH="coverage/RubyRefresher@Run_spec__refresher_spec___RubyRefresher.coverage" NAME="Run spec 'refresher_spec': RubyRefresher Coverage Results" MODIFIED="1458851409204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RubyRefresher" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="refresher_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/refresher_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9539877">
+              <caret line="58" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -277,9 +277,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec__refresher_spec___RubyRefresher - 2016.03.24 at 16h 12m 58s.xml">
-      <configuration name="Run spec 'refresher_spec': RubyRefresher" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
     <history-entry file="Run_spec__refresher_spec___RubyRefresher - 2016.03.24 at 16h 15m 29s.xml">
       <configuration name="Run spec 'refresher_spec': RubyRefresher" configurationId="RSpecRunConfigurationType" />
     </history-entry>
@@ -305,6 +302,9 @@
       <configuration name="Run spec 'refresher_spec': RubyRefresher" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec__refresher_spec___RubyRefresher - 2016.03.24 at 16h 26m 37s.xml">
+      <configuration name="Run spec 'refresher_spec': RubyRefresher" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Run_spec__refresher_spec___RubyRefresher - 2016.03.24 at 16h 30m 09s.xml">
       <configuration name="Run spec 'refresher_spec': RubyRefresher" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
@@ -394,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/refresher_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9539877">
+          <caret line="58" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
